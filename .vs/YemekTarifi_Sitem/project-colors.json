@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e74fd42-0043-411f-824e-73f8b2eb991d": {
+      "ProjectGuid": "9e74fd42-0043-411f-824e-73f8b2eb991d",
+      "DisplayName": "YemekTarifi_Sitem",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,6 @@
+﻿Derleme başladı...
+------ Derleme başladı: Proje: YemekTarifi_Sitem, Yapılandırma: Debug Any CPU ------
+Web Sitesi Doğrulanıyor
+
+Doğrulama Tamamlandı
+========== Oluşturma: 1 başarılı veya güncel, 0 başarısız, 0 atlandı ==========
