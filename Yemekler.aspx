@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.master" AutoEventWireup="true" CodeFile="Yemekler.aspx.cs" Inherits="Yemekler" %>
-    
-mustafa karakas<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <style type="text/css">
         .auto-style3 {
             background-color: #FFFF99;
